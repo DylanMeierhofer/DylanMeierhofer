@@ -31,6 +31,6 @@ In simpler terms, I'm passionate about leveraging technology to make life easier
 
 ## Connect with Me 🌐
 
-- **LinkedIn**: [MyLinkedIn](https://www.linkedin.com/in/dylan-meierhofer/)
+- **LinkedIn**: [Click here](https://www.linkedin.com/in/dylan-meierhofer/)
 
 
