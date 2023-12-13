@@ -25,12 +25,8 @@ In simpler terms, I'm passionate about leveraging technology to make life easier
 
 ### Fun Facts 🎉
 
-- Why do programmers and IT people prefer dark mode ? Because the light attracts bugs 🪲
-- 8️⃣ Why do programmers always mix up Christmas and Halloween ? Because Oct 31 == Dec 25 
+- Why do programmers and IT people prefer dark mode? Because the light attracts bugs 🪲
+- 8️⃣ Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25 
 - There's no place like 127.0.0.1 🏡
-
-## Connect with Me 🌐
-
-- **LinkedIn**: [Click here](https://www.linkedin.com/in/dylan-meierhofer/)
 
 
