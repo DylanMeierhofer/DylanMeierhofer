@@ -11,7 +11,7 @@ while (true) {
     if [ $enjoyLife = true ]; then
         break
     fi
-}
+}```
 
 In simpler terms, I'm passionate about leveraging technology to make life easier. I love scripting my way out of repetitive tasks.. because who likes doing the same thing over and over again ? 
 
