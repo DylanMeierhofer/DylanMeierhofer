@@ -1,6 +1,6 @@
 # Hello, World! 👋💻
 
-Welcome to the digital playground of an IT System Specialist who lives in the cloud (not literally, but you get the idea) ☁️🔒
+Welcome to the digital playground of an IT who lives in the cloud (not literally, but you get the idea) ☁️🔒
 
 ## About Me 🚀
 
